@@ -1,2 +1,5 @@
 name = input()
-print(name)
+if name == 'Nikita':
+  print('Yes')
+else:
+  print('No')
